@@ -1,0 +1,6 @@
+PATH = 'src/pdf_files'
+SAMPLE_FILE = 'src/sample_files/sample_records.csv'
+INGRAM_MICRO = 'INGRAM MICRO'
+SERIAL_NO = 'Serial No'
+REPRINTED = 'REPRINTED'
+D_L = 'D/L'
